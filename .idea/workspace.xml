@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0be1d8c-2382-47a9-9bb6-a6511818d3d0" name="Default" comment="" />
+    <list default="true" id="a0be1d8c-2382-47a9-9bb6-a6511818d3d0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -221,7 +223,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570872680170</updated>
       <workItem from="1570872683733" duration="2380000" />
-      <workItem from="1571948819160" duration="5619000" />
+      <workItem from="1571948819160" duration="5647000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1571953814809</created>
@@ -234,7 +236,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7999000" />
+    <option name="totallyTimeSpent" value="8027000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -260,7 +262,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49893504" weight="0.32916668" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" sideWeight="0.49893504" weight="0.32916668" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49520767" visible="true" weight="0.41145834" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
